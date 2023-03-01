@@ -5,7 +5,7 @@
  */
 package calculadoragithub;
 //rama2
-/*Hola, buenas tardes*/
+/*Hola, buenas tardes.¿Qué te cuentas?*/
 /**
  *
  * @author redes
